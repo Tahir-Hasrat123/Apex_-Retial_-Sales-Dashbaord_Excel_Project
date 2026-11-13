@@ -1,4 +1,3 @@
-# Apex_-Retial_-Sales-Dashbaord_Excel_Project
 # 📊 APEX RETAIL SALES & PROFIT ANALYSIS DASHBOARD
 
 ## 🚀 Project Overview
